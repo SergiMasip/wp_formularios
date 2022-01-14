@@ -23,7 +23,7 @@ Deberemos tener descargado wordpress desktop desde el enlace proporcionado encim
 
 ### Instalación 🔧
 
-Para proceder con la instalacion deberemos seguir los pasos que se muestran a continuacion proporcionada en bloques 
+Para proceder con la instalacion deberemos seguir los pasos que se muestran a continuacion
 
 descargar xampp
 
