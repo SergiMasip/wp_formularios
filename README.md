@@ -1,4 +1,4 @@
-# Manual de instalacion WORDPRESS desktop
+# Manual de instalacion WORDPRESS
 
 Acontinuacion veremos los pasos necesarios para descargar e instalar wordpress desktop
 
@@ -37,7 +37,7 @@ Da un ejemplo:
     6. Ubicamos la ruta de instalacion 
     7. Esperamos a que finalice la instalacion
 
-Descarga de wordpress desktop
+Descarga de wordpress
 
 
     1. Ubicamos el linck proporcionado y accedemos
@@ -54,7 +54,7 @@ Descarga de wordpress desktop
 
 
 ```
-    1. Copiaremos los archivos descargados de wordpress desktop
+    1. Copiaremos los archivos descargados de wordpress
     2. Nos dirigiremos a la carpeta de archivos de programa de xampp
         - Para encontrarla seguimos los siguientes pasos :
             1. Mostramos xampp
@@ -94,4 +94,5 @@ También puedes mirar la lista de todos los [contribuyentes](https://github.com/
 
 ## Expresiones de Gratitud 🎁
 
-* Invita a un cubata a alguien del equipo. 
+* Invita a un cubata a alguien del equipo.
+* Pasale un shiny a tu compa para que vea tu gratitud.
